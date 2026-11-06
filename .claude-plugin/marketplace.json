@@ -1,0 +1,5 @@
+{
+  "name": "tailnet-claude",
+  "owner": { "name": "00PrabalK00" },
+  "plugins": [{ "name": "tailnet-sessions", "source": "./" }]
+}

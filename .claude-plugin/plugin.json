@@ -1,0 +1,7 @@
+{
+  "name": "tailnet-sessions",
+  "version": "0.1.0",
+  "description": "Every Claude Code session on your Tailscale machines, one keystroke away: a live pane of sessions, agents and chats, and /remote to open one in a split",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
